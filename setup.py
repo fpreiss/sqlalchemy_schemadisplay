@@ -14,7 +14,7 @@ setup(
     author_email="florian.schulze@gmx.net",
     license="MIT License",
     long_description=long_description[long_description.find('\n\n'):],
-    url='https://github.com/fschulze/sqlalchemy_schemadisplay',
+    url='https://github.com/fpreiss/sqlalchemy_schemadisplay',
     py_modules=['sqlalchemy_schemadisplay'],
     zip_safe=True,
     install_requires=[
